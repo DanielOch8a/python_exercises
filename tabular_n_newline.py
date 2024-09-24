@@ -1,0 +1,1 @@
+print("Favorite food:\n\tPizza\n\tPapaBonelless\n\tPozole")
